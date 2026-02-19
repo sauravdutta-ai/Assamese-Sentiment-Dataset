@@ -6,6 +6,8 @@ This repository contains a curated dataset for **Sentiment Analysis of Assamese 
 
 The dataset includes both the raw shuffled version and the cleaned, model-ready version, ensuring reproducibility of experiments and transparency in preprocessing.
 
+**NOTE: To get access to the entire artifacts, please refer to my latest GitHub release - Assamese SA**
+
 ---
 
 ## 📂 Repository Structure
